@@ -131,7 +131,9 @@ content:
         sub_title: 정보통신공학 전공
         caption: 2008년 - 2017년
         description: | # this will include new lines to allow paragraphs
-          대학에서의 연구 프로젝트를 통해 IOT(탁구 점수 자동 계산 시스템)에 대한 연구를 수행하였으며, 이 결과물을 교내 학술지에서 발표하였습니다. 이 연구는 스포츠 개발 분야에서의 기술적 이해를 높이고, 향후 특허 출원 및 산업 혁신에 기여하였습니다.
+          대학에서의 연구 프로젝트를 통해 IOT(탁구 점수 자동 계산 시스템)에 대한 연구를 수행하였으며, 
+          이 결과물을 교내 학술지에서 발표하였습니다. 이 연구는 스포츠 개발 분야에서의 기술적 이해를 높이고,
+          향후 특허 출원 및 산업 혁신에 기여하였습니다.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
