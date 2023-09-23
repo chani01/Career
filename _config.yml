@@ -84,18 +84,25 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+  - title: Skill
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+#  - title: Experience
+#    layout: list
+#    content:
+#      - layout: right
+#        title: Company name
+#        sub_title: Job title
+#        caption: Date Range (eg. November 2016 - present)
+#        link: Link to company (optional)
+#        quote: >
+#          Short description of the company (optional)
+#        description: | # this will include new lines to allow paragraphs
+#          Description of role
   - title: Education
     layout: list
     content:
