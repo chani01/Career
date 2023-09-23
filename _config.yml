@@ -127,11 +127,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
+        title: 창원대학교
+        sub_title: 정보통신공학 전공
         caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
