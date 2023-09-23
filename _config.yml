@@ -41,7 +41,7 @@ linkedin_username: chani01
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/emoji.png #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
 
   5년 차 개발자로 스타트업에서 앱 서비스를 개발/배포/운영하였습니다. 작은 규모의 팀에 첫 번째 개발자로 입사
