@@ -43,8 +43,9 @@ linkedin_username: chani01
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-5년 차 개발자로 스타트업에서 앱 서비스를 개발/배포/운영하였습니다. 작은 규모의 팀에 첫 번째 개발자로 입사
-하여 17억 투자를 유치하고, 3명 중 1명이 사용하는 서비스를 성장에 필요한 기술 역량을 책임졌던 경험이 있습니다.
+
+  5년 차 개발자로 스타트업에서 앱 서비스를 개발/배포/운영하였습니다. 작은 규모의 팀에 첫 번째 개발자로 입사
+  하여 17억 투자를 유치하고, 3명 중 1명이 사용하는 서비스를 성장에 필요한 기술 역량을 책임졌던 경험이 있습니다.
 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
