@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project  
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
