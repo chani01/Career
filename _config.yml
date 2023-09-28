@@ -78,7 +78,11 @@ content:
         quote: >
           디지털 워터마킹 기술을 이용한 정품 인증 플랫폼
         description: | # this will include new lines to allow paragraphs
-          HiddenTag, HiddenTagCOP, HiddenTagHurom, HiddenTagAboutMe, HiddenTagYG, APP 신규 기능 개발 및 유지보수
+          HiddenTag, HiddenTagCOP 신규 기능 개발 및 유지 보수
+          HiddenTagHurom, HiddenTagAboutMe, APP 유지보수
+          HiddenTagYG 라이브러리 유지보수
+
+          2017년 모바일 기술 대상 수상
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
