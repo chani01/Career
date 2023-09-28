@@ -76,7 +76,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          디지털 워터마킹 기술을 이용한 정품 인증 서비스
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project  
       - layout: left
