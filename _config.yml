@@ -68,6 +68,22 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: 쑥쑥찰칵 2022
+        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
+        link_text: github.com/chani01/CareerInfo/BabyFolil
+        additional_links:
+          - title: github.com/chani01/CareerInfo/BabyFolil
+            icon: fab fa-github
+            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
+        quote: >
+          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          홈화면 개편 1차 2차, 영상 1분 업로드 확장, 업로드 공유범위 설정, 키워드 검색 기능, 미디어 업로드 중복 체그 기능, 쑥쑥찰칵 굿즈 제작 기능, 인앱 마케팅 툴(쑥톡)
+          
+          DAU 증가, 하루 미디어 업로드 수 20만 건 달성, NPS 90점 달성, wau 소폭 증가, 매출 증가, 마케팅팀 업무 효율 증가
+      - layout: left
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 쑥쑥찰칵 2021
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md
         link_text: github.com/chani01/CareerInfo/BabyFolil
@@ -78,7 +94,7 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          1. 아기 탄생영상, 가족 구조 변경, 구독 서비스 삭제, 인앱 제화 개발, 연말 시상식 영상, 돌 잔치 영상, 쑥티콘 개발
+          아기 탄생영상, 가족 구조 변경, 구독 서비스 삭제, 인앱 제화 개발, 연말 시상식 영상, 돌 잔치 영상, 쑥티콘 개발
 
           일일 가입자 수 270% 증가, MAU 98% 증가, 쑥티콘 오픈 후 한 달 기준 30만건 제작, 미디어 업로드 비율 소폭 증가, 영상 제작 비율 소폭 증가
       - layout: left
