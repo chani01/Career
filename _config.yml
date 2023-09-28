@@ -192,7 +192,7 @@ content:
   - title: Skill
     layout: text
     content: | # this will include new lines to allow paragraphs
-      개발 스킬 나열
+      Kotlin, Git, Java, compose, MVVM, hilt, android, Clean Architecture, kotlin coroutine, glide, Zeplin, Slack, Figma
   - title: Education
     layout: list
     content:
