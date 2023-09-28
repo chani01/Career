@@ -204,12 +204,12 @@ content:
           대학에서의 연구 프로젝트를 통해 IOT(탁구 점수 자동 계산 시스템)에 대한 연구를 수행하였으며, 
           이 결과물을 교내 학술지에서 발표하였습니다. 이 연구는 스포츠 개발 분야에서의 기술적 이해를 높이고,
           향후 특허 출원 했습니다.
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
