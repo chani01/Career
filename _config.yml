@@ -69,12 +69,12 @@ content:
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 쑥쑥찰칵 2023
-        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
+        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolilo
         additional_links:
           - title: github.com/chani01/CareerInfo/BabyFolilo
             icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
+            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
@@ -85,12 +85,12 @@ content:
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 쑥쑥찰칵 2022
-        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
+        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
         link_text: github.com/chani01/CareerInfo/BabyFolilo
         additional_links:
           - title: github.com/chani01/CareerInfo/BabyFolilo
             icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
+            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md#%ED%99%88%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
@@ -101,12 +101,12 @@ content:
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 쑥쑥찰칵 2021
-        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md
+        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md
         link_text: github.com/chani01/CareerInfo/BabyFolilo
         additional_links:
           - title: github.com/chani01/CareerInfo/BabyFolilo
             icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolil.md
+            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolilo.md
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
