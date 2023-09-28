@@ -65,25 +65,23 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+    - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 히든테그
-        link: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
-        link_text: github.com/chani01/CareerInfo/ck&b
+        title: 머머링 2.5
+        link: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-25
+        link_text: github.com/chani01/CareerInfo/murmuring
         additional_links:
-          - title: github.com/chani01/CareerInfo/ck&b
+          - title: github.com/chani01/CareerInfo/murmuring
             icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
+            url: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-25
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          HiddenTag, HiddenTagCOP 신규 기능 개발 및 유지 보수<br>
-          HiddenTagHurom, HiddenTagAboutMe 유지보수<br>
-          HiddenTagYG 라이브러리 유지보수
+          음성 라이브 서비스 개발
 
-          2017년 모바일 기술 대상 수상
-      - layout: left
+          사용자 소폭 증가
+     - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 머머링 2.0
@@ -102,19 +100,21 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 머머링 2.5
-        link: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-25
-        link_text: github.com/chani01/CareerInfo/murmuring
+        title: 히든테그
+        link: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
+        link_text: github.com/chani01/CareerInfo/ck&b
         additional_links:
-          - title: github.com/chani01/CareerInfo/murmuring
+          - title: github.com/chani01/CareerInfo/ck&b
             icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-25
+            url: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          음성 라이브 서비스 개발
+          HiddenTag, HiddenTagCOP 신규 기능 개발 및 유지 보수<br>
+          HiddenTagHurom, HiddenTagAboutMe 유지보수<br>
+          HiddenTagYG 라이브러리 유지보수
 
-          사용자 소폭 증가
+          2017년 모바일 기술 대상 수상
   #- title: Experience
   #  layout: list
   #  content:
