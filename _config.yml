@@ -64,22 +64,8 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content:      
     - layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 머머링 3.0
-        link: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-30
-        link_text: github.com/chani01/CareerInfo/murmuring
-        additional_links:
-          - title: github.com/chani01/CareerInfo/murmuring
-            icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/murmuring.md#%EB%A8%B8%EB%A8%B8%EB%A7%81-30
-        quote: >
-          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
-        description: | # this will include new lines to allow paragraphs
-          음성 기반 릴레이 서비스 개발
-     - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 머머링 2.5
@@ -95,7 +81,7 @@ content:
           음성 라이브 서비스 개발
 
           사용자 소폭 증가
-     - layout: left
+      - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 머머링 2.0
@@ -110,7 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           기존 서비스 중인 머머링 서비스 신규 개발
 
-          음성 파일 형식 변경 처리 진행하여 파일 사이즈 30 - 50% 감소, 서버비 감소
+          음성 파일 형식 변경 처리 진행하여 파일 사이즈 30 - 50% 감소, 서버비 감소    
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
