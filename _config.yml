@@ -78,7 +78,7 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          HiddenTag, HiddenTagCOP 신규 기능 개발 및 유지 보수
+          HiddenTag, HiddenTagCOP 신규 기능 개발 및 유지 보수<br>
           HiddenTagHurom, HiddenTagAboutMe, APP 유지보수
           HiddenTagYG 라이브러리 유지보수
 
