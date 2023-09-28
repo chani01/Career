@@ -70,7 +70,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 히든테그
         link: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
-        link_text: Link Text
+        link_text: github.com/chani01/CareerInfo/ck&b
         additional_links:
           - title:  github.com/chani01/CareerInfo/ck&b
             icon: fab fa-github
