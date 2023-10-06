@@ -78,7 +78,7 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 추가(사진책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
+          구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
           
           매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
       - layout: left
@@ -94,9 +94,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          홈화면 개편 1차 2차, 영상 1분 업로드 확장, 업로드 공유범위 설정, 키워드 검색 기능, 미디어 업로드 중복 체그 기능, 쑥쑥찰칵 굿즈 제작 기능, 인앱 마케팅 툴(쑥톡)
+          홈 화면 개편 1차 2차, 영상 1분 업로드 확장, 업로드 공유범위 설정, 키워드 검색 기능, 미디어 업로드 중복 체크 기능, 쑥쑥 찰칵 굿즈 상품 제작 기능, 인 앱 마케팅 툴(쑥톡)
           
-          DAU 증가, 하루 미디어 업로드 수 20만 건 달성, NPS 90점 달성, wau 소폭 증가, 매출 증가, 마케팅팀 업무 효율 증가
+          DAU 증가, 하루 미디어 업로드 수 20만 건 달성, NPS 90점 달성, WAU 소폭 증가, 매출 증가, 마케팅팀 업무 효율 향상
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -110,9 +110,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          아기 탄생영상, 가족 구조 변경, 구독 서비스 삭제, 인앱 재화 개발, 연말 시상식 영상, 돌 잔치 영상, 쑥티콘 개발
+          아기 탄생 영상, 가족 구조 변경, 구독 서비스 삭제, 인 앱 재화 개발, 연말 시상식 영상, 돌잔치 영상, 쑥쑥찰칵 이모티콘(쑥 티콘) 개발
 
-          일일 가입자 수 270% 증가, MAU 98% 증가, 쑥티콘 오픈 후 한 달 기준 30만건 제작, 미디어 업로드 비율 증가, 영상 제작 비율 증가
+          일일 가입자 수 270% 증가, MAU 98% 증가, 쑥 티콘 공개 후 한 달 기준 30만 건 제작, 미디어 업로드 비율 증가, 영상 제작 비율 증가
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -156,9 +156,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          기존 서비스 중인 머머링 서비스 신규 개발
+          기존 서비스 중인 머머링 1.5 서비스를 머머링 2.0 서비스 재개발
 
-          음성 파일 형식 변경 처리 진행하여 파일 사이즈 30 - 50% 감소, 서버비 감소    
+          음성 파일 형식 변경 처리 진행하여 파일 크기 30~50% 감소, 서버 사용료 감소    
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -201,8 +201,8 @@ content:
         sub_title: 정보통신공학 전공
         caption: 2008년 - 2017년
         description: | # this will include new lines to allow paragraphs
-          대학에서의 연구 프로젝트를 통해 IOT(탁구 점수 자동 계산 시스템)에 대한 연구를 수행하였으며,
-          이 결과물을 교내 학술지에서 발표하였습니다. 이 연구는 개발 분야에서의 기술적 이해를 높이고, 향후 특허 출원했습니다.
+          대학에서의 연구 프로젝트를 통해 IOT(탁구 점수 자동 계산 시스템)에 관한연구를 수행하였으며,
+          이 결과물을 교내 학술지에서 발표하였습니다. 연구는 개발 분야에서의 기술적 이해를 높이고, 향후 특허 출원했습니다.
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
