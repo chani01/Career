@@ -162,7 +162,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 히든테그
+        title: 히든태그
         link: https://github.com/chani01/CareerInfo/blob/main/ck%26b.md
         link_text: github.com/chani01/CareerInfo/ck&b
         additional_links:
