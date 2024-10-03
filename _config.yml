@@ -96,8 +96,8 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
-          
+          음성 녹음 및 데시벨 측정 개발, 사진 촬영 및 동영상 촮영 개발, 사진 스티커 기능 개발,
+                    
           매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
