@@ -68,7 +68,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스인더스트리<br>치매 예방 앱 개편
+        title: 맬리 3.0<br>치매 예방 앱 개편
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
@@ -84,7 +84,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스인더스트리<br>치매 예방 컨텐츠 개발
+        title: 맬리 2.1 ~ 2.7<br>치매 예방 컨텐츠 개발
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
@@ -100,7 +100,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스인더스트리<br>운동컨텐츠 개발
+        title: 따듯 2.0<br>리뉴얼 서비스 운동 컨텐츠 개발
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
