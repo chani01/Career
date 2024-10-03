@@ -81,7 +81,6 @@ content:
             구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
             
             매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
-
       - layout: left
           #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                         # other value (or no value) means no border will be displayed
@@ -98,7 +97,6 @@ content:
             구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
             
             매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
-
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -115,7 +113,6 @@ content:
           구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
           
           매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
-
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
