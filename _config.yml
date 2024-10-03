@@ -78,10 +78,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          치매 예방 앱 개편(인천 광역시 남동구 보건소 협업)<br>
-
           사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발, 성능 최적화<br>
-
+          <br><br>
+          [성과]<br>
           사용성 향상, 고객 만족 증가
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -97,7 +96,8 @@ content:
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
           음성 녹음 및 데시벨 측정 개발, 사진 촬영 및 동영상 촬영 개발, 사진 스티커 기능 개발
-
+          <br><br>
+          [성과]<br>
           사용자 증가, 인천 남동구 보건소 협약
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -112,9 +112,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          앱 리뉴얼 작업<br>
           재활 운동 컨텐츠 개발
-          
+          <br><br>
+          [성과]<br>
           앱 이미지 개선, 서비스 개선
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -131,7 +131,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
           <br><br>
-          [성과]
+          [성과]<br>
           매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -148,7 +148,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           홈 화면 개편 1차 2차, 영상 1분 업로드 확장, 업로드 공유범위 설정, 키워드 검색 기능, 미디어 업로드 중복 체크 기능, 쑥쑥 찰칵 굿즈 상품 제작 기능, 인 앱 마케팅 툴(쑥톡)
           <br><br>
-          [성과]
+          [성과]<br>
           DAU 증가, 하루 미디어 업로드 수 20만 건 달성, NPS 90점 달성, WAU 소폭 증가, 매출 증가, 마케팅팀 업무 효율 향상
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -165,7 +165,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           아기 탄생 영상, 가족 구조 변경, 구독 서비스 삭제, 인 앱 재화 개발, 연말 시상식 영상, 돌잔치 영상, 쑥쑥찰칵 이모티콘(쑥 티콘) 개발
           <br><br>
-          [성과]
+          [성과]<br>
           일일 가입자 수 270% 증가, MAU 98% 증가, 쑥 티콘 공개 후 한 달 기준 30만 건 제작, 미디어 업로드 비율 증가, 영상 제작 비율 증가
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -196,7 +196,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           음성 라이브 서비스 개발
           <br><br>
-          [성과]
+          [성과]<br>
           사용자 소폭 증가
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -213,7 +213,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           기존 서비스 중인 머머링 1.5 서비스를 머머링 2.0 서비스 재개발
           <br><br>
-          [성과]
+          [성과]<br>
           음성 파일 형식 변경 처리 진행하여 파일 크기 30~50% 감소, 서버 사용료 감소    
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -232,7 +232,7 @@ content:
           HiddenTagHurom, HiddenTagAboutMe 유지보수<br>
           HiddenTagYG 라이브러리 유지보수
           <br><br>
-          [성과]
+          [성과]<br>
           2017년 모바일 기술 대상 수상
   #- title: Experience
   #  layout: list
