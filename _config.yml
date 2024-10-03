@@ -68,7 +68,7 @@ content:
      - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스\n치매 예방 앱 기반 홈 개편
+        title: 원메딕스<br>치매 예방 앱 기반 홈 개편
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
@@ -85,7 +85,7 @@ content:
     - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스\n치매 예방 컨텐츠 개발
+        title: 원메딕스치매 예방 컨텐츠 개발
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
@@ -102,7 +102,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 원메딕스\n운동 컨텐츠 개발
+        title: 원메딕스 운동 컨텐츠 개발
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
