@@ -76,13 +76,13 @@ content:
             icon: fab fa-github
             url: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         quote: >
-          치매 예방 앱 개편(인천 광역시 남동구 보건소 협업
+          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
           치매 예방 앱 개편(인천 광역시 남동구 보건소 협업)<br>
 
           사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발, 성능 최적화<br>
 
-          사용성 향상, 고객 만족 등
+          사용성 향상, 고객 만족 증가
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -96,9 +96,9 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          음성 녹음 및 데시벨 측정 개발, 사진 촬영 및 동영상 촮영 개발, 사진 스티커 기능 개발,
-                    
-          매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
+          음성 녹음 및 데시벨 측정 개발, 사진 촬영 및 동영상 촬영 개발, 사진 스티커 기능 개발
+
+          사용자 증가, 인천 남동구 보건소 협약
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -112,9 +112,10 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
+          앱 리뉴얼 작업<br>
+          재활 운동 컨텐츠 개발
           
-          매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
+          앱 이미지 개선, 서비스 개선
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
