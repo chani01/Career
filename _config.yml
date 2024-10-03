@@ -76,9 +76,10 @@ content:
             icon: fab fa-github
             url: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         quote: >
-          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
+          치매 예방 앱 개편(인천 광역시 남동구 보건소 협업
         description: | # this will include new lines to allow paragraphs
           치매 예방 앱 개편(인천 광역시 남동구 보건소 협업)<br>
+
           사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발, 성능 최적화<br>
 
           사용성 향상, 고객 만족 등
