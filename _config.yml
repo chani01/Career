@@ -68,7 +68,24 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 맬리 3.0<br>치매 예방 앱 개편
+        title: 맬리 3.0
+        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
+        link_text: github.com/chani01/CareerInfo/BabyFolio
+        additional_links:
+          - title: github.com/chani01/CareerInfo/BabyFolio
+            icon: fab fa-github
+            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
+        quote: >
+          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          치매 예방 앱 개편(인천 광역시 남동구 보건소 협업)
+          추가 보건소 유치 작업
+
+          사용성 향상, 고객 만족 등
+      - layout: left
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 맬리 2.1 ~ 2.7
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
@@ -84,23 +101,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 맬리 2.1 ~ 2.7<br>치매 예방 컨텐츠 개발
-        link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
-        link_text: github.com/chani01/CareerInfo/BabyFolio
-        additional_links:
-          - title: github.com/chani01/CareerInfo/BabyFolio
-            icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
-        quote: >
-          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
-        description: | # this will include new lines to allow paragraphs
-          구독 출시, 홈 화면 개편 3차 4차, 출산일 등록, 굿즈 상품 추가(사진 책), 광고 추가, 공개일기 출시, 챌린지 출시, 무료 포인트 지급소, 프리미엄 영상 출시
-          
-          매출 증가, 고객 설문 결과 84.8% 긍정적인 답변 확인(사용성, 깔끔함), 가족당 식구 증가(평균 4명 -> 6명)
-      - layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 따듯 2.0<br>리뉴얼 서비스 운동 컨텐츠 개발
+        title: 따듯 2.0
         link: https://github.com/chani01/CareerInfo/blob/main/BabyFolio.md#%EA%B5%AC%EB%8F%85-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4-%EA%B0%9C%ED%8E%B8-3%EC%B0%A8-%EC%B6%9C%EC%82%B0%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EA%B0%9C%EB%B0%9C
         link_text: github.com/chani01/CareerInfo/BabyFolio
         additional_links:
