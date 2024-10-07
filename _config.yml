@@ -78,10 +78,44 @@ content:
         quote: >
           자세한 내용은 깃 링크를 통해 보실 수 있습니다.
         description: | # this will include new lines to allow paragraphs
-          사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발<br>
+          사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발, 성능 최적화<br>
           <br><br>
           [성과]<br>
           사용성 향상, 고객 만족 증가
+      - layout: left
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 맬리 2.3 - 2.7
+        link: https://github.com/chani01/CareerInfo/blob/main/meli.md#20-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EB%94%B0%EB%93%AF---%EC%9E%AC%ED%99%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EA%B3%B5
+        link_text: github.com/chani01/CareerInfo/meli
+        additional_links:
+          - title: github.com/chani01/CareerInfo/meli
+            icon: fab fa-github
+            url: https://github.com/chani01/CareerInfo/blob/main/meli.md#20-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EB%94%B0%EB%93%AF---%EC%9E%AC%ED%99%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EA%B3%B5
+        quote: >  
+          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          음성 녹음 및 데시벨 측정 개발, 사진 촬영 및 동영상 촬영 개발, 사진 스티커 기능 개발
+          <br><br>
+          [성과]<br>
+          사용자 증가, 인천 남동구 보건소 협약
+      - layout: left
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 따듯 2.1 - 2.2
+        link: https://github.com/chani01/CareerInfo/blob/main/meli.md#20-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EB%94%B0%EB%93%AF---%EC%9E%AC%ED%99%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EA%B3%B5
+        link_text: github.com/chani01/CareerInfo/meli
+        additional_links:
+          - title: github.com/chani01/CareerInfo/meli
+            icon: fab fa-github
+            url: https://github.com/chani01/CareerInfo/blob/main/meli.md#20-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EB%94%B0%EB%93%AF---%EC%9E%AC%ED%99%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EA%B3%B5
+        quote: >
+          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
+        description: | # this will include new lines to allow paragraphs
+          1일 챌린지, 30일 챌린지 기능 개발, 2024 청소년 동계 올림픽 첼린지 개발
+          <br><br>
+          [성과]<br>
+          사용자 증가, 인천 남동구 보건소 협약
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
