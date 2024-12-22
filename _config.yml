@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: 박희찬
@@ -68,24 +68,7 @@ content:
       - layout: left
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 맬리 3.0
-        link: https://github.com/chani01/CareerInfo/blob/main/meli.md#%30-%EC%B9%98%EB%A7%A4-%EC%96%98%EB%B0%A9-%EC%95%B1-%EA%B0%9C%ED%8E%B8
-        link_text: github.com/chani01/CareerInfo/meli
-        additional_links:
-          - title: github.com/chani01/CareerInfo/meli
-            icon: fab fa-github
-            url: https://github.com/chani01/CareerInfo/blob/main/meli.md#%30-%EC%B9%98%EB%A7%A4-%EC%96%98%EB%B0%A9-%EC%95%B1-%EA%B0%9C%ED%8E%B8
-        quote: >       
-          자세한 내용은 깃 링크를 통해 보실 수 있습니다.
-        description: | # this will include new lines to allow paragraphs
-          사진 s3 업로드 기능 개발, 홈화면 개편, 만보기 기능 개발, 성능 최적화<br>
-          <br><br>
-          [성과]<br>
-          사용성 향상, 고객 만족 증가
-      - layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 맬리 2.3 - 2.7
+        title: 맬리 2.3 - 3.0
         link: https://github.com/chani01/CareerInfo/blob/main/meli.md#20-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EB%94%B0%EB%93%AF---%EC%9E%AC%ED%99%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EA%B3%B5
         link_text: github.com/chani01/CareerInfo/meli
         additional_links:
